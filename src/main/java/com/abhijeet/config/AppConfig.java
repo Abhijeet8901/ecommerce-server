@@ -43,7 +43,8 @@ public class AppConfig {
 								"http://localhost:3000", 
 								"http://localhost:4000",
 								"http://localhost:4200",
-								"https://shopwithabhi.vercel.app"
+								"https://shopwithabhi.vercel.app",
+								"http://shopwithabhi.com.s3-website.ap-southeast-4.amazonaws.com"
 								
 							)
 						);
